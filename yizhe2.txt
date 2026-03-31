@@ -4,4 +4,7 @@ Add something. Lieselotte
 =======
 Add something 
 ---lihe
+<<<<<<< HEAD
 >>>>>>> 463d63e38b35ce81ee7adc353daea93a4c1376f0
+=======
+>>>>>>> 0a4e0e0cdddc7ec00e7186a132d1b60976cd763f
